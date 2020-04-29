@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Bloomreach CMS Polish Translation
+    Copyright(c) 2020 Marek Mosiewicz
+--> 
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>pl.com.jotel.onehippo</groupId>
+    <artifactId>onehippo-polish-translation</artifactId>
+    <version>0.6</version>
+    <packaging>jar</packaging>
+    <name>BloomReach Polish translation</name>
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+    <developers>
+        <developer>
+            <name>Marek Andrzej Mosiewicz</name>
+            <email>marek.mosiewicz@jotel.com.pl</email>
+            <organization>Jotel Mosiewiczowie Spółka Jawna</organization>                       
+        </developer>
+    </developers>
+    <inceptionYear>2020</inceptionYear>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+    <build>
+        <resources>
+            <resource>
+                <directory>api/src/main/java</directory>
+            </resource>
+            <resource>
+                <directory>api/src/main/resources</directory>
+            </resource>
+            <!--TODO Add all direcotires-->
+        </resources>
+    </build>
+</project>
