@@ -13,4 +13,5 @@ Add missing translation. (not translated files contains
 Create Maven pom file to build jar with all translations
 to make it possible to add it CMS war
 
-Translations provided by Marek Mosiewicz 
+For help running bloomreach in polish language you can contact 
+me marekmosiewicz@gmail.com
