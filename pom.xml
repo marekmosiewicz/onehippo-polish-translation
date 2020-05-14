@@ -37,7 +37,74 @@
             <resource>
                 <directory>api/src/main/resources</directory>
             </resource>
-            <!--TODO Add all direcotires-->
+            <resource>
+                <directory>automatic-export/frontend/src/main/java</directory>
+            </resource>
+            <resource>
+                <directory>builtin/src/main/java</directory>
+            </resource>
+            <resource>
+                <directory>builtin/src/main/resources</directory>
+            </resource>
+            <resource>
+                <directory>console/frontend/src/main/java</directory>
+            </resource>
+            <resource>
+                <directory>editor/frontend/src/main/java</directory>
+            </resource>
+            <resource>
+                <directory>editor/frontend/src/main/test</directory>
+            </resource>
+            <resource>
+                <directory>engine/src/main/java</directory>
+            </resource>
+
+            <resource>
+                <directory>engine/src/main/test/resources</directory>
+            </resource>
+            <resource>
+                <directory>gallery/frontend/src/main/java</directory>
+            </resource>
+            <resource>
+                <directory>google-analytics/frontend/src/main/resources</directory>
+            </resource>
+            <resource>
+                <directory>gotolink/src/main/java</directory>
+            </resource>
+            <resource>
+                <directory>login/src/main/resources</directory>
+            </resource>
+            <resource>
+                <directory>perspectives/src/main/java</directory>
+            </resource>
+            <resource>
+                <directory>perspectives/src/main/resource</directory>
+            </resource>
+            <resource>
+                <directory>perspectives/src/test/java</directory>
+            </resource>
+            <resource>
+                <directory>reporting/src/main/resources</directory>
+            </resource>
+            <resource>
+                <directory>api/src/main/java</directory>
+            </resource>
+            <resource>
+                <directory>richtext/frontend/src/main/java</directory>
+            </resource>
+            <resource>
+                <directory>translation/frontend/src/main/java</directory>
+            </resource>
+            <resource>
+                <directory>translation/test/src/main/java</directory>
+            </resource>
+            <resource>
+                <directory>workflow/frontend/src/main/java</directory>
+            </resource>
+            <resource>
+                <directory>workflowmenu/src/main/java</directory>
+            </resource>
+   
         </resources>
     </build>
 </project>
